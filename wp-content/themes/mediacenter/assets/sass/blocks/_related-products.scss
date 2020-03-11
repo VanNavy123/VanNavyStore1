@@ -1,0 +1,8 @@
+div.related.products,
+section.related.products {
+	padding-bottom: 40px;
+
+	> h2 {
+		@include make-section-title();
+	}
+}
