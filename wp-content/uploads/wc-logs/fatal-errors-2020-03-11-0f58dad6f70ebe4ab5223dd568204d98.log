@@ -1,0 +1,4 @@
+2020-03-11T13:52:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\vannavy\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-03-11T14:02:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\vannavy\wp-includes\Requests\Transport\cURL.php on line 163
+
