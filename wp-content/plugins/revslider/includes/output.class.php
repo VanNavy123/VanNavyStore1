@@ -3621,7 +3621,7 @@ class RevSliderOutput {
 				
 				switch($action){
 					case 'none':
-						continue;
+						//continue;
 					break;
 					case 'link':
 						//if post based, replace {{}} with correct info

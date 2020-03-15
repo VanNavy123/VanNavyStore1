@@ -1,0 +1,40 @@
+2020-03-15T14:42:49+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php:757
+Stack trace:
+#0 C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\functions.php(370): mc_wc_get_product_id(false)
+#1 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(288): woocommerce_products_live_search('')
+#2 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\vannavy\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vannavy\wp-admin\admin-ajax.php(190): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php on line 757
+
+2020-03-15T14:42:49+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php:757
+Stack trace:
+#0 C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\functions.php(370): mc_wc_get_product_id(false)
+#1 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(288): woocommerce_products_live_search('')
+#2 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\vannavy\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vannavy\wp-admin\admin-ajax.php(190): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php on line 757
+
+2020-03-15T14:42:49+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php:757
+Stack trace:
+#0 C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\functions.php(370): mc_wc_get_product_id(false)
+#1 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(288): woocommerce_products_live_search('')
+#2 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\vannavy\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vannavy\wp-admin\admin-ajax.php(190): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php on line 757
+
+2020-03-15T14:42:52+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php:757
+Stack trace:
+#0 C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\functions.php(370): mc_wc_get_product_id(false)
+#1 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(288): woocommerce_products_live_search('')
+#2 C:\xampp\htdocs\vannavy\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\vannavy\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vannavy\wp-admin\admin-ajax.php(190): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown in C:\xampp\htdocs\vannavy\wp-content\themes\mediacenter\inc\woocommerce\functions.php on line 757
+
